@@ -20,4 +20,4 @@
 
 最重要的是，我们的网站无需注册，所有影片都可以立即播放。你不需要输入个人信息，也不需要任何付费订阅，只需进入网站，选择你喜欢的影片，点击播放按钮即可开始观看。完全免费的高质量内容，随时为你提供最好的观影体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link]( https://github.com/ppw20250704/ppw3 ）</span>
